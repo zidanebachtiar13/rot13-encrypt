@@ -4,7 +4,7 @@ A Command Line Application to encrypt word with ROT-13 decoder.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/zidanebachtiar13/rot13-encrypt/releases/download/v0.1.0/rot13.jar.
 
 ## Usage
 

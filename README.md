@@ -14,6 +14,10 @@ Download from https://github.com/zidanebachtiar13/rot13-encrypt/releases/downloa
 
     $ java -jar rot13.jar -e examples
 
+If you want type more than one word, just use "<word>"
+
+    $ java -jar rot13.jar -e "this is examples"
+
 ## License
 
 Copyright © 2022 FIXME
